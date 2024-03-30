@@ -54,4 +54,8 @@ To replicate or explore the analysis:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/stellar-classification-eda.git
+   git clone https://github.com/Siddhartha19Sinha/PRODIGY_DS_02.git
+
+2. Navigate to the cloned directory.
+
+3. Open the Jupyter Notebooks in the Notebooks directory to view the analysis.
