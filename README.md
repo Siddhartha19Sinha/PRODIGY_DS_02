@@ -59,3 +59,6 @@ To replicate or explore the analysis:
 2. Navigate to the cloned directory.
 
 3. Open the Jupyter Notebooks in the Notebooks directory to view the analysis.
+
+
+Feel free to explore the repository and provide feedback or suggestions for improvement! If you have any questions or inquiries, please don't hesitate to reach out.
