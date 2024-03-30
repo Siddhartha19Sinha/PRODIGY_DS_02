@@ -54,7 +54,7 @@ To replicate or explore the analysis:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Siddhartha19Sinha/PRODIGY_DS_02.git
+   https://github.com/Siddhartha19Sinha/PRODIGY_DS_02.git
 
 2. Navigate to the cloned directory.
 
