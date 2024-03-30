@@ -1,5 +1,5 @@
 # PRODIGY_DS_02
-# Stellar Classification Exploratory Data Analysis (EDA) Project 🌟🔭
+# EXPLORATORY DATA ANALYSIS (EDA) PROJECT ON STELLAR CLASSIFICATION 🌟🔭
 
 Welcome to the Stellar Classification Exploratory Data Analysis (EDA) Project! This repository contains an in-depth analysis of stellar data, focusing on classifying stars, galaxies, and quasars based on their spectral characteristics.
 
