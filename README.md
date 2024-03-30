@@ -9,7 +9,7 @@ In this project, we explore a dataset comprising 100,000 observations of space t
 
 ## Dataset Details 📄
 
-- **Source:** [[Click here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)]
+- **Source:** [Click here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
 - **Description:** The dataset includes information about various stellar attributes such as spectral type, magnitude, color index, luminosity, and more, collected from astronomical observations and surveys.
 
 ## Project Structure 📁
