@@ -9,7 +9,7 @@ In this project, we explore a dataset comprising 100,000 observations of space t
 
 ## Dataset Details 📄
 
-- **Source:** [Insert dataset source/link]
+- **Source:** [[Insert dataset source/link](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)]
 - **Description:** The dataset includes information about various stellar attributes such as spectral type, magnitude, color index, luminosity, and more, collected from astronomical observations and surveys.
 
 ## Project Structure 📁
@@ -45,7 +45,6 @@ The repository is organized as follows:
 - **Interactive Visualization with Plotly:** Created interactive scatter plots.
 - **Hierarchical Visualization with Dendrogram:** Plotted hierarchical clustering dendrogram.
 - **Confusion Matrix:** Evaluated classification performance using a confusion matrix.
-- **ROC Curve:** Visualized the Receiver Operating Characteristic (ROC) curve for logistic regression.
 
 ## Usage 📝
 
@@ -60,5 +59,5 @@ To replicate or explore the analysis:
 
 3. Open the Jupyter Notebooks in the Notebooks directory to view the analysis.
 
-
+## 
 Feel free to explore the repository and provide feedback or suggestions for improvement! If you have any questions or inquiries, please don't hesitate to reach out.
